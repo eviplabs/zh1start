@@ -1,1 +1,2 @@
-# zh1start
+Név:
+Neptun kód:
