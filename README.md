@@ -1,3 +1,3 @@
-﻿# ZH1
+﻿# ZH
 
-Ebbe a repositoryba kell elkészítened az első ZH megoldását.
+Ebbe a repositoryba kell elkészítened a ZH (vagy pótZH) megoldását.
